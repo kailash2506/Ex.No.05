@@ -156,7 +156,7 @@
 
 ## 16. Best Practices for Prompting ChatGPT
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 
